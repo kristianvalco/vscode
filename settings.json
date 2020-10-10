@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabCompletion": "on",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "workbench.colorTheme": "One Dark Pro"
+}
