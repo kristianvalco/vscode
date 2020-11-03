@@ -5,9 +5,12 @@
     "emmet.excludeLanguages": [
         "markdown"
     ],
-    "editor.minimap.enabled": false,
+    "editor.minimap.enabled": true,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "git.confirmSync": false,
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "One Dark Pro",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.fontSize": 17
 }
